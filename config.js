@@ -8,7 +8,7 @@ global.ButtonV2 = ButtonV2;
 global.Carousel = Carousel;
 global.AIRich = AIRich;
 
-global.pairingNumber = 4915510608338;
+global.pairingNumber = 212611318279;
 global.owner = [
   ['212611318279', 'bazikore', true],
   ['', 'Owner 2', true],
